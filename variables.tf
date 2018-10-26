@@ -20,4 +20,5 @@ variable "internal" {
 }
 variable "zone_id" {
   default = "Z3CCIZELFLJ3SC"
+  description = "this is the zone id"
 }
